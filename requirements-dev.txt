@@ -1,0 +1,5 @@
+# ==== Outils de développement, tests et documentation ====
+pytest>=7.4.0
+pytest-streamlit>=0.0.8
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
